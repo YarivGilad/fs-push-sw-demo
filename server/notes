@@ -1,0 +1,4 @@
+
+
+Generate vapid keys using web-push:
+```npx web-push generate-vapid-keys```
